@@ -1,6 +1,8 @@
 # Data structure And Algorithm
 ### 程序=数据结构+算法
+
 ![Image text](https://github.com/tanfengjie/Algorithm/blob/master/images/DataSturcture-Algorithm.jpeg)
+
 ####一.数据结构的基本概念
 ##### 数据结构定义：
 
@@ -39,3 +41,5 @@
 ##### 空间复杂度：
 
 该算法所耗费的存储空间，它也是问题规模n的函数。其是对一个算法在运行过程中临时占用存储空间大小的量度。一个算法在计算机存储器上所占用的存储空间，包括存储算法本身所占用的存储空间，算法的输入输出数据所占用的存储空间和算法在运行过程中临时占用的存储空间这三个方面。
+
+![Image text](https://github.com/tanfengjie/Algorithm/blob/master/images/DataSturcture-Algorithm-X.jpeg)
